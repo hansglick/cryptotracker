@@ -25,3 +25,18 @@ Le cours d'une crypto monnaie dépend de plusieurs caractéristiques comme la hy
  * StackOverFlow : afin de tracker la confiance et la maturité du langage informatique du projet
  * Twitter : afin de tracker la hype des médias mainstreams
  * Reddit : afin de tracker la confiance des amateurs éclairés
+
+
+***
+
+# Authentification Github
+
+Pour récupérer sa clé d'authentification : 
+ * Settings / Developper Settings / Personal access tokens
+ * cocher la case *repo*
+ * Afin de ne pas avoir à retaper sa clé d'authentification : 
+
+```
+git config --global credentials.helper cache
+```
+
