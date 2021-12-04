@@ -2,7 +2,7 @@
 <img src="img/cryptohp.png" width="516">
 
 
-***
+
 
 # Objectif
 
@@ -29,7 +29,9 @@ Le cours d'une crypto monnaie dépend de plusieurs caractéristiques comme la hy
 
 ***
 
-# Authentification Github
+# Autres
+
+### Authentification Github
 
 Pour récupérer sa clé d'authentification : 
  * Settings / Developper Settings / Personal access tokens
@@ -38,5 +40,14 @@ Pour récupérer sa clé d'authentification :
 
 ```
 git config --global credentials.helper cache
+```
+
+### Reproduction de l'environnement conda
+
+Afin de reproduire l'environnement conda :
+
+```
+conda env create -f crypto_env.yml
+conda activate cryptotracker
 ```
 
