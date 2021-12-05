@@ -10,6 +10,7 @@ python get_authors_experience.py -f contributors.txt > contributors_experience.j
 
  * *f* : filename qui contient la liste des contributeurs pour lesquels on souhaite récupérer l'expérience sur GitHub
 
+### Output
 
 ```
 [
