@@ -1,0 +1,506 @@
+[
+    {
+        "code": "BTC",
+        "ts": 1638716749,
+        "price": 43451.02,
+        "currency": "EUR"
+    },
+    {
+        "code": "ETH",
+        "ts": 1638716749,
+        "price": 3677.1,
+        "currency": "EUR"
+    },
+    {
+        "code": "BNB",
+        "ts": 1638716749,
+        "price": 502.4,
+        "currency": "EUR"
+    },
+    {
+        "code": "USDT",
+        "ts": 1638716749,
+        "price": 0.8867,
+        "currency": "EUR"
+    },
+    {
+        "code": "LUNA",
+        "ts": 1638716749,
+        "price": 62.29,
+        "currency": "EUR"
+    },
+    {
+        "code": "SOL",
+        "ts": 1638716749,
+        "price": 168.86,
+        "currency": "EUR"
+    },
+    {
+        "code": "ADA",
+        "ts": 1638716749,
+        "price": 1.194,
+        "currency": "EUR"
+    },
+    {
+        "code": "HEX",
+        "ts": 1638716749,
+        "price": 0.1396,
+        "currency": "EUR"
+    },
+    {
+        "code": "USDC",
+        "ts": 1638716749,
+        "price": 0.8852,
+        "currency": "EUR"
+    },
+    {
+        "code": "DOT",
+        "ts": 1638716749,
+        "price": 24.6,
+        "currency": "EUR"
+    },
+    {
+        "code": "DOGE",
+        "ts": 1638716749,
+        "price": 0.1508,
+        "currency": "EUR"
+    },
+    {
+        "code": "SHIB",
+        "ts": 1638716749,
+        "price": 3.18e-05,
+        "currency": "EUR"
+    },
+    {
+        "code": "AVAX",
+        "ts": 1638716749,
+        "price": 77.38,
+        "currency": "EUR"
+    },
+    {
+        "code": "BUSD",
+        "ts": 1638716749,
+        "price": 0.8881,
+        "currency": "EUR"
+    },
+    {
+        "code": "LTC",
+        "ts": 1638716749,
+        "price": 136.74,
+        "currency": "EUR"
+    },
+    {
+        "code": "UNI",
+        "ts": 1638716749,
+        "price": 14.6,
+        "currency": "EUR"
+    },
+    {
+        "code": "CRO",
+        "ts": 1638716749,
+        "price": 0.5097,
+        "currency": "EUR"
+    },
+    {
+        "code": "LINK",
+        "ts": 1638716749,
+        "price": 17.05,
+        "currency": "EUR"
+    },
+    {
+        "code": "DAI",
+        "ts": 1638716749,
+        "price": 0.8855,
+        "currency": "EUR"
+    },
+    {
+        "code": "BCH",
+        "ts": 1638716749,
+        "price": 397.95,
+        "currency": "EUR"
+    },
+    {
+        "code": "AXS",
+        "ts": 1638716749,
+        "price": 97.93,
+        "currency": "EUR"
+    },
+    {
+        "code": "CETH",
+        "ts": 1638716749,
+        "price": 73.58,
+        "currency": "EUR"
+    },
+    {
+        "code": "OKB",
+        "ts": 1638716749,
+        "price": 21.09,
+        "currency": "EUR"
+    },
+    {
+        "code": "VET",
+        "ts": 1638716749,
+        "price": 0.08043,
+        "currency": "EUR"
+    },
+    {
+        "code": "FTT",
+        "ts": 1638716749,
+        "price": 38.34,
+        "currency": "EUR"
+    },
+    {
+        "code": "ICP",
+        "ts": 1638716749,
+        "price": 26.41,
+        "currency": "EUR"
+    },
+    {
+        "code": "TRX",
+        "ts": 1638716749,
+        "price": 0.07517,
+        "currency": "EUR"
+    },
+    {
+        "code": "XLM",
+        "ts": 1638716749,
+        "price": 0.2423,
+        "currency": "EUR"
+    },
+    {
+        "code": "EGLD",
+        "ts": 1638716749,
+        "price": 284.89,
+        "currency": "EUR"
+    },
+    {
+        "code": "SAND",
+        "ts": 1638716749,
+        "price": 4.783,
+        "currency": "EUR"
+    },
+    {
+        "code": "THETA",
+        "ts": 1638716749,
+        "price": 4.218,
+        "currency": "EUR"
+    },
+    {
+        "code": "CDAI",
+        "ts": 1638716749,
+        "price": 0.02796,
+        "currency": "EUR"
+    },
+    {
+        "code": "ETC",
+        "ts": 1638716749,
+        "price": 34.41,
+        "currency": "EUR"
+    },
+    {
+        "code": "CAKE",
+        "ts": 1638716749,
+        "price": 9.813,
+        "currency": "EUR"
+    },
+    {
+        "code": "AMP",
+        "ts": 1638716749,
+        "price": 0.04654,
+        "currency": "EUR"
+    },
+    {
+        "code": "HBAR",
+        "ts": 1638716749,
+        "price": 0.2409,
+        "currency": "EUR"
+    },
+    {
+        "code": "1INCH",
+        "ts": 1638716749,
+        "price": 2.391,
+        "currency": "EUR"
+    },
+    {
+        "code": "XMR",
+        "ts": 1638716749,
+        "price": 176.31,
+        "currency": "EUR"
+    },
+    {
+        "code": "XTZ",
+        "ts": 1638716749,
+        "price": 3.433,
+        "currency": "EUR"
+    },
+    {
+        "code": "FIL",
+        "ts": 1638716749,
+        "price": 34.51,
+        "currency": "EUR"
+    },
+    {
+        "code": "OHM",
+        "ts": 1638716749,
+        "price": 551.68,
+        "currency": "EUR"
+    },
+    {
+        "code": "MIOTA",
+        "ts": 1638716749,
+        "price": 1.001,
+        "currency": "EUR"
+    },
+    {
+        "code": "HNT",
+        "ts": 1638716749,
+        "price": 28.3,
+        "currency": "EUR"
+    },
+    {
+        "code": "LEO",
+        "ts": 1638716749,
+        "price": 2.972,
+        "currency": "EUR"
+    },
+    {
+        "code": "MOB",
+        "ts": 1638716749,
+        "price": 11.7,
+        "currency": "EUR"
+    },
+    {
+        "code": "KLAY",
+        "ts": 1638716749,
+        "price": 1.123,
+        "currency": "EUR"
+    },
+    {
+        "code": "LDO",
+        "ts": 1638716749,
+        "price": 3.329,
+        "currency": "EUR"
+    },
+    {
+        "code": "EOS",
+        "ts": 1638716749,
+        "price": 2.655,
+        "currency": "EUR"
+    },
+    {
+        "code": "KSM",
+        "ts": 1638716749,
+        "price": 256.09,
+        "currency": "EUR"
+    },
+    {
+        "code": "AAVE",
+        "ts": 1638716749,
+        "price": 170.93,
+        "currency": "EUR"
+    },
+    {
+        "code": "MKR",
+        "ts": 1638716749,
+        "price": 2280.37,
+        "currency": "EUR"
+    },
+    {
+        "code": "CEL",
+        "ts": 1638716749,
+        "price": 3.546,
+        "currency": "EUR"
+    },
+    {
+        "code": "NEAR",
+        "ts": 1638716749,
+        "price": 6.684,
+        "currency": "EUR"
+    },
+    {
+        "code": "ZEC",
+        "ts": 1638716749,
+        "price": 160.37,
+        "currency": "EUR"
+    },
+    {
+        "code": "BSV",
+        "ts": 1638716749,
+        "price": 106.53,
+        "currency": "EUR"
+    },
+    {
+        "code": "XEC",
+        "ts": 1638716749,
+        "price": 0.0001055,
+        "currency": "EUR"
+    },
+    {
+        "code": "ENJ",
+        "ts": 1638716749,
+        "price": 2.449,
+        "currency": "EUR"
+    },
+    {
+        "code": "GRT",
+        "ts": 1638716749,
+        "price": 0.606,
+        "currency": "EUR"
+    },
+    {
+        "code": "NEO",
+        "ts": 1638716749,
+        "price": 25.09,
+        "currency": "EUR"
+    },
+    {
+        "code": "UST",
+        "ts": 1638716749,
+        "price": 0.888,
+        "currency": "EUR"
+    },
+    {
+        "code": "AR",
+        "ts": 1638716749,
+        "price": 40.36,
+        "currency": "EUR"
+    },
+    {
+        "code": "WAVES",
+        "ts": 1638716749,
+        "price": 16.58,
+        "currency": "EUR"
+    },
+    {
+        "code": "CHZ",
+        "ts": 1638716749,
+        "price": 0.2852,
+        "currency": "EUR"
+    },
+    {
+        "code": "STX",
+        "ts": 1638716749,
+        "price": 1.785,
+        "currency": "EUR"
+    },
+    {
+        "code": "LRC",
+        "ts": 1638716749,
+        "price": 1.864,
+        "currency": "EUR"
+    },
+    {
+        "code": "WAXE",
+        "ts": 1638716749,
+        "price": 422.24,
+        "currency": "EUR"
+    },
+    {
+        "code": "QNT",
+        "ts": 1638716749,
+        "price": 166.8,
+        "currency": "EUR"
+    },
+    {
+        "code": "KCS",
+        "ts": 1638716749,
+        "price": 19.06,
+        "currency": "EUR"
+    },
+    {
+        "code": "HOT",
+        "ts": 1638716749,
+        "price": 0.008191,
+        "currency": "EUR"
+    },
+    {
+        "code": "CRV",
+        "ts": 1638716749,
+        "price": 3.177,
+        "currency": "EUR"
+    },
+    {
+        "code": "SAFEMOON",
+        "ts": 1638716749,
+        "price": 1.54e-06,
+        "currency": "EUR"
+    },
+    {
+        "code": "NEXO",
+        "ts": 1638716749,
+        "price": 1.984,
+        "currency": "EUR"
+    },
+    {
+        "code": "UOS",
+        "ts": 1638716749,
+        "price": 0.5916,
+        "currency": "EUR"
+    },
+    {
+        "code": "HT",
+        "ts": 1638716749,
+        "price": 7.599,
+        "currency": "EUR"
+    },
+    {
+        "code": "COMP",
+        "ts": 1638716749,
+        "price": 187.78,
+        "currency": "EUR"
+    },
+    {
+        "code": "SUSHI",
+        "ts": 1638716749,
+        "price": 4.75,
+        "currency": "EUR"
+    },
+    {
+        "code": "DCR",
+        "ts": 1638716749,
+        "price": 83.64,
+        "currency": "EUR"
+    },
+    {
+        "code": "FRAX",
+        "ts": 1638716749,
+        "price": 0.8865,
+        "currency": "EUR"
+    },
+    {
+        "code": "RLY",
+        "ts": 1638716749,
+        "price": 0.3892,
+        "currency": "EUR"
+    },
+    {
+        "code": "ONE",
+        "ts": 1638716749,
+        "price": 0.1621,
+        "currency": "EUR"
+    },
+    {
+        "code": "SNX",
+        "ts": 1638716749,
+        "price": 5.148,
+        "currency": "EUR"
+    },
+    {
+        "code": "SKL",
+        "ts": 1638716749,
+        "price": 0.2077,
+        "currency": "EUR"
+    },
+    {
+        "code": "QTUM",
+        "ts": 1638716749,
+        "price": 9.14,
+        "currency": "EUR"
+    },
+    {
+        "code": "VGX",
+        "ts": 1638716749,
+        "price": 3.546,
+        "currency": "EUR"
+    }
+]
