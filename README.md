@@ -11,13 +11,11 @@ L'objectif de ce repo est triple :
  * Injecter les données dans une base de données
  * Plugger un outil de DataViz sur la base de données afin de pouvoir explorer les données
 
-***
 
 # Motivation
 
 Le cours d'une crypto monnaie dépend de plusieurs caractéristiques comme la hype, la confiance, le sérieux des équipes de développement, etc. La connaissance et l'évolution de ces caractéristiques donnerait un avantage décisif à un investisseur dans la construction de son portfolio. Nous voulons croire que le tracking de données publiques pourrait nous permettre d'atteindre cet objectif.
 
-***
 
 # Sources
 
@@ -27,7 +25,6 @@ Le cours d'une crypto monnaie dépend de plusieurs caractéristiques comme la hy
  * Reddit : afin de tracker la confiance des amateurs éclairés
 
 
-***
 
 # Autres
 
