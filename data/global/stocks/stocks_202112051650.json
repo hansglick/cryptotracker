@@ -1,506 +1,506 @@
 [
     {
         "code": "BTC",
-        "ts": 1638716749,
-        "price": 43451.02,
+        "ts": 1638719278,
+        "price": 42493.84,
         "currency": "EUR"
     },
     {
         "code": "ETH",
-        "ts": 1638716749,
-        "price": 3677.1,
+        "ts": 1638719278,
+        "price": 3601.55,
         "currency": "EUR"
     },
     {
         "code": "BNB",
-        "ts": 1638716749,
-        "price": 502.4,
+        "ts": 1638719278,
+        "price": 485.4,
         "currency": "EUR"
     },
     {
         "code": "USDT",
-        "ts": 1638716749,
-        "price": 0.8867,
+        "ts": 1638719278,
+        "price": 0.8856,
         "currency": "EUR"
     },
     {
         "code": "LUNA",
-        "ts": 1638716749,
-        "price": 62.29,
+        "ts": 1638719278,
+        "price": 62.1,
         "currency": "EUR"
     },
     {
         "code": "SOL",
-        "ts": 1638716749,
-        "price": 168.86,
+        "ts": 1638719278,
+        "price": 163.87,
         "currency": "EUR"
     },
     {
         "code": "ADA",
-        "ts": 1638716749,
-        "price": 1.194,
+        "ts": 1638719278,
+        "price": 1.162,
         "currency": "EUR"
     },
     {
         "code": "HEX",
-        "ts": 1638716749,
-        "price": 0.1396,
+        "ts": 1638719278,
+        "price": 0.1372,
         "currency": "EUR"
     },
     {
         "code": "USDC",
-        "ts": 1638716749,
-        "price": 0.8852,
+        "ts": 1638719278,
+        "price": 0.8842,
         "currency": "EUR"
     },
     {
         "code": "DOT",
-        "ts": 1638716749,
-        "price": 24.6,
+        "ts": 1638719278,
+        "price": 23.71,
         "currency": "EUR"
     },
     {
         "code": "DOGE",
-        "ts": 1638716749,
-        "price": 0.1508,
+        "ts": 1638719278,
+        "price": 0.146,
         "currency": "EUR"
     },
     {
         "code": "SHIB",
-        "ts": 1638716749,
-        "price": 3.18e-05,
+        "ts": 1638719278,
+        "price": 3.09e-05,
         "currency": "EUR"
     },
     {
         "code": "AVAX",
-        "ts": 1638716749,
-        "price": 77.38,
+        "ts": 1638719278,
+        "price": 74.51,
         "currency": "EUR"
     },
     {
         "code": "BUSD",
-        "ts": 1638716749,
-        "price": 0.8881,
+        "ts": 1638719278,
+        "price": 0.8873,
         "currency": "EUR"
     },
     {
         "code": "LTC",
-        "ts": 1638716749,
-        "price": 136.74,
+        "ts": 1638719278,
+        "price": 132.87,
         "currency": "EUR"
     },
     {
         "code": "UNI",
-        "ts": 1638716749,
-        "price": 14.6,
+        "ts": 1638719278,
+        "price": 14.34,
         "currency": "EUR"
     },
     {
         "code": "CRO",
-        "ts": 1638716749,
-        "price": 0.5097,
+        "ts": 1638719278,
+        "price": 0.4833,
         "currency": "EUR"
     },
     {
         "code": "LINK",
-        "ts": 1638716749,
-        "price": 17.05,
+        "ts": 1638719278,
+        "price": 16.65,
         "currency": "EUR"
     },
     {
         "code": "DAI",
-        "ts": 1638716749,
-        "price": 0.8855,
+        "ts": 1638719278,
+        "price": 0.8843,
         "currency": "EUR"
     },
     {
         "code": "BCH",
-        "ts": 1638716749,
-        "price": 397.95,
+        "ts": 1638719278,
+        "price": 390.31,
         "currency": "EUR"
     },
     {
         "code": "AXS",
-        "ts": 1638716749,
-        "price": 97.93,
+        "ts": 1638719278,
+        "price": 93.24,
         "currency": "EUR"
     },
     {
         "code": "CETH",
-        "ts": 1638716749,
-        "price": 73.58,
+        "ts": 1638719278,
+        "price": 72.02,
         "currency": "EUR"
     },
     {
         "code": "OKB",
-        "ts": 1638716749,
-        "price": 21.09,
+        "ts": 1638719278,
+        "price": 20.33,
         "currency": "EUR"
     },
     {
         "code": "VET",
-        "ts": 1638716749,
-        "price": 0.08043,
+        "ts": 1638719278,
+        "price": 0.07762,
         "currency": "EUR"
     },
     {
         "code": "FTT",
-        "ts": 1638716749,
-        "price": 38.34,
+        "ts": 1638719278,
+        "price": 37.58,
         "currency": "EUR"
     },
     {
         "code": "ICP",
-        "ts": 1638716749,
-        "price": 26.41,
+        "ts": 1638719278,
+        "price": 25.51,
         "currency": "EUR"
     },
     {
         "code": "TRX",
-        "ts": 1638716749,
-        "price": 0.07517,
+        "ts": 1638719278,
+        "price": 0.07309,
         "currency": "EUR"
     },
     {
         "code": "XLM",
-        "ts": 1638716749,
-        "price": 0.2423,
+        "ts": 1638719278,
+        "price": 0.2353,
         "currency": "EUR"
     },
     {
         "code": "EGLD",
-        "ts": 1638716749,
-        "price": 284.89,
+        "ts": 1638719278,
+        "price": 258.65,
         "currency": "EUR"
     },
     {
         "code": "SAND",
-        "ts": 1638716749,
-        "price": 4.783,
+        "ts": 1638719278,
+        "price": 4.667,
         "currency": "EUR"
     },
     {
         "code": "THETA",
-        "ts": 1638716749,
-        "price": 4.218,
+        "ts": 1638719278,
+        "price": 4.089,
         "currency": "EUR"
     },
     {
         "code": "CDAI",
-        "ts": 1638716749,
-        "price": 0.02796,
+        "ts": 1638719278,
+        "price": 0.02738,
         "currency": "EUR"
     },
     {
         "code": "ETC",
-        "ts": 1638716749,
-        "price": 34.41,
+        "ts": 1638719278,
+        "price": 33.06,
         "currency": "EUR"
     },
     {
         "code": "CAKE",
-        "ts": 1638716749,
-        "price": 9.813,
+        "ts": 1638719278,
+        "price": 9.466,
         "currency": "EUR"
     },
     {
         "code": "AMP",
-        "ts": 1638716749,
-        "price": 0.04654,
+        "ts": 1638719278,
+        "price": 0.04462,
         "currency": "EUR"
     },
     {
         "code": "HBAR",
-        "ts": 1638716749,
-        "price": 0.2409,
+        "ts": 1638719278,
+        "price": 0.236,
         "currency": "EUR"
     },
     {
         "code": "1INCH",
-        "ts": 1638716749,
-        "price": 2.391,
+        "ts": 1638719278,
+        "price": 2.328,
         "currency": "EUR"
     },
     {
         "code": "XMR",
-        "ts": 1638716749,
-        "price": 176.31,
+        "ts": 1638719278,
+        "price": 172.73,
         "currency": "EUR"
     },
     {
         "code": "XTZ",
-        "ts": 1638716749,
-        "price": 3.433,
+        "ts": 1638719278,
+        "price": 3.389,
         "currency": "EUR"
     },
     {
         "code": "FIL",
-        "ts": 1638716749,
-        "price": 34.51,
+        "ts": 1638719278,
+        "price": 33.46,
         "currency": "EUR"
     },
     {
         "code": "OHM",
-        "ts": 1638716749,
-        "price": 551.68,
+        "ts": 1638719278,
+        "price": 538.17,
         "currency": "EUR"
     },
     {
         "code": "MIOTA",
-        "ts": 1638716749,
-        "price": 1.001,
+        "ts": 1638719278,
+        "price": 0.9651,
         "currency": "EUR"
     },
     {
         "code": "HNT",
-        "ts": 1638716749,
-        "price": 28.3,
+        "ts": 1638719278,
+        "price": 27.36,
         "currency": "EUR"
     },
     {
         "code": "LEO",
-        "ts": 1638716749,
-        "price": 2.972,
+        "ts": 1638719278,
+        "price": 2.98,
         "currency": "EUR"
     },
     {
         "code": "MOB",
-        "ts": 1638716749,
-        "price": 11.7,
+        "ts": 1638719278,
+        "price": 11.57,
         "currency": "EUR"
     },
     {
         "code": "KLAY",
-        "ts": 1638716749,
-        "price": 1.123,
+        "ts": 1638719278,
+        "price": 1.074,
         "currency": "EUR"
     },
     {
         "code": "LDO",
-        "ts": 1638716749,
-        "price": 3.329,
+        "ts": 1638719278,
+        "price": 3.108,
         "currency": "EUR"
     },
     {
         "code": "EOS",
-        "ts": 1638716749,
-        "price": 2.655,
+        "ts": 1638719278,
+        "price": 2.589,
         "currency": "EUR"
     },
     {
         "code": "KSM",
-        "ts": 1638716749,
-        "price": 256.09,
+        "ts": 1638719278,
+        "price": 248.29,
         "currency": "EUR"
     },
     {
         "code": "AAVE",
-        "ts": 1638716749,
-        "price": 170.93,
+        "ts": 1638719278,
+        "price": 166.96,
         "currency": "EUR"
     },
     {
         "code": "MKR",
-        "ts": 1638716749,
-        "price": 2280.37,
+        "ts": 1638719278,
+        "price": 2220.15,
         "currency": "EUR"
     },
     {
         "code": "CEL",
-        "ts": 1638716749,
-        "price": 3.546,
+        "ts": 1638719278,
+        "price": 3.514,
         "currency": "EUR"
     },
     {
         "code": "NEAR",
-        "ts": 1638716749,
-        "price": 6.684,
+        "ts": 1638719278,
+        "price": 6.507,
         "currency": "EUR"
     },
     {
         "code": "ZEC",
-        "ts": 1638716749,
-        "price": 160.37,
+        "ts": 1638719278,
+        "price": 153.49,
         "currency": "EUR"
     },
     {
         "code": "BSV",
-        "ts": 1638716749,
-        "price": 106.53,
+        "ts": 1638719278,
+        "price": 105.25,
         "currency": "EUR"
     },
     {
         "code": "XEC",
-        "ts": 1638716749,
-        "price": 0.0001055,
+        "ts": 1638719278,
+        "price": 0.0001001,
         "currency": "EUR"
     },
     {
         "code": "ENJ",
-        "ts": 1638716749,
-        "price": 2.449,
+        "ts": 1638719278,
+        "price": 2.347,
         "currency": "EUR"
     },
     {
         "code": "GRT",
-        "ts": 1638716749,
-        "price": 0.606,
+        "ts": 1638719278,
+        "price": 0.5859,
         "currency": "EUR"
     },
     {
         "code": "NEO",
-        "ts": 1638716749,
-        "price": 25.09,
+        "ts": 1638719278,
+        "price": 24.49,
         "currency": "EUR"
     },
     {
         "code": "UST",
-        "ts": 1638716749,
+        "ts": 1638719278,
         "price": 0.888,
         "currency": "EUR"
     },
     {
         "code": "AR",
-        "ts": 1638716749,
-        "price": 40.36,
+        "ts": 1638719278,
+        "price": 39.48,
         "currency": "EUR"
     },
     {
         "code": "WAVES",
-        "ts": 1638716749,
-        "price": 16.58,
+        "ts": 1638719278,
+        "price": 16.18,
         "currency": "EUR"
     },
     {
         "code": "CHZ",
-        "ts": 1638716749,
-        "price": 0.2852,
+        "ts": 1638719278,
+        "price": 0.2717,
         "currency": "EUR"
     },
     {
         "code": "STX",
-        "ts": 1638716749,
-        "price": 1.785,
+        "ts": 1638719278,
+        "price": 1.732,
         "currency": "EUR"
     },
     {
         "code": "LRC",
-        "ts": 1638716749,
-        "price": 1.864,
+        "ts": 1638719278,
+        "price": 1.807,
         "currency": "EUR"
     },
     {
         "code": "WAXE",
-        "ts": 1638716749,
-        "price": 422.24,
+        "ts": 1638719278,
+        "price": 405.42,
         "currency": "EUR"
     },
     {
         "code": "QNT",
-        "ts": 1638716749,
-        "price": 166.8,
+        "ts": 1638719278,
+        "price": 152.38,
         "currency": "EUR"
     },
     {
         "code": "KCS",
-        "ts": 1638716749,
-        "price": 19.06,
+        "ts": 1638719278,
+        "price": 18.63,
         "currency": "EUR"
     },
     {
         "code": "HOT",
-        "ts": 1638716749,
-        "price": 0.008191,
+        "ts": 1638719278,
+        "price": 0.007924,
         "currency": "EUR"
     },
     {
         "code": "CRV",
-        "ts": 1638716749,
-        "price": 3.177,
+        "ts": 1638719278,
+        "price": 3.078,
         "currency": "EUR"
     },
     {
         "code": "SAFEMOON",
-        "ts": 1638716749,
-        "price": 1.54e-06,
+        "ts": 1638719278,
+        "price": 1.33e-06,
         "currency": "EUR"
     },
     {
         "code": "NEXO",
-        "ts": 1638716749,
-        "price": 1.984,
+        "ts": 1638719278,
+        "price": 1.922,
         "currency": "EUR"
     },
     {
         "code": "UOS",
-        "ts": 1638716749,
-        "price": 0.5916,
+        "ts": 1638719278,
+        "price": 0.5822,
         "currency": "EUR"
     },
     {
         "code": "HT",
-        "ts": 1638716749,
-        "price": 7.599,
+        "ts": 1638719278,
+        "price": 7.563,
         "currency": "EUR"
     },
     {
         "code": "COMP",
-        "ts": 1638716749,
-        "price": 187.78,
+        "ts": 1638719278,
+        "price": 184.84,
         "currency": "EUR"
     },
     {
         "code": "SUSHI",
-        "ts": 1638716749,
-        "price": 4.75,
+        "ts": 1638719278,
+        "price": 4.681,
         "currency": "EUR"
     },
     {
         "code": "DCR",
-        "ts": 1638716749,
-        "price": 83.64,
+        "ts": 1638719278,
+        "price": 81.65,
         "currency": "EUR"
     },
     {
         "code": "FRAX",
-        "ts": 1638716749,
-        "price": 0.8865,
+        "ts": 1638719278,
+        "price": 0.8855,
         "currency": "EUR"
     },
     {
         "code": "RLY",
-        "ts": 1638716749,
-        "price": 0.3892,
+        "ts": 1638719278,
+        "price": 0.3826,
         "currency": "EUR"
     },
     {
         "code": "ONE",
-        "ts": 1638716749,
-        "price": 0.1621,
+        "ts": 1638719278,
+        "price": 0.1592,
         "currency": "EUR"
     },
     {
         "code": "SNX",
-        "ts": 1638716749,
-        "price": 5.148,
+        "ts": 1638719278,
+        "price": 5.054,
         "currency": "EUR"
     },
     {
         "code": "SKL",
-        "ts": 1638716749,
-        "price": 0.2077,
+        "ts": 1638719278,
+        "price": 0.202,
         "currency": "EUR"
     },
     {
         "code": "QTUM",
-        "ts": 1638716749,
-        "price": 9.14,
+        "ts": 1638719278,
+        "price": 8.753,
         "currency": "EUR"
     },
     {
         "code": "VGX",
-        "ts": 1638716749,
-        "price": 3.546,
+        "ts": 1638719278,
+        "price": 3.411,
         "currency": "EUR"
     }
 ]

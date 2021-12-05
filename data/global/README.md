@@ -25,5 +25,5 @@ python get_metadata_cryptos.py -f crypto.json
 Permet de récupérer le cours de chacune des crypto présents dans le fichier `-g`. Elle crée un `stocks.json` dont le nom comprend la date du run
 
 ```
-python get_price_cryptos.py -g crypto.json -s stocks.json
+python get_price_cryptos.py -g crypto.json -s ../stocks/stocks.json
 ```

@@ -57,7 +57,13 @@ def final(args):
         crypto_dic = json.load(json_file)
     current_crypto_prices = Get_Crypto_Current_Price(crypto_dic,verbose=True)
     suffix = Get_Suffix_Date()
-    savedfilename = args.crypto_stocks_filename.split(".")[0] + "_" + suffix + ".json"
+    
+    filename = os.path.basename(args.crypto_stocks_filename)
+    dirname = os.path.dirname(args.crypto_stocks_filename)
+    file_wo_extention,extention = filename.split(".")
+
+    savedfilename = dirname + "/" + file_wo_extention + "_" + suffix + "." + extention
+
     Save_Dic_To_Json(savedfilename,current_crypto_prices)
     return None
 
@@ -71,4 +77,4 @@ if __name__ == "__main__":
     final(args)
 
 
-# python get_price_cryptos.py -g crypto.json -s stocks.json
+# python get_price_cryptos.py -g crypto.json -s ../stocks/stocks.json
