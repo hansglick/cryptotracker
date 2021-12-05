@@ -1,5 +1,5 @@
 
-<img src="img/cryptohp.png" width="516">
+<img src="img/cryptohp.png" width="750">
 
 
 
